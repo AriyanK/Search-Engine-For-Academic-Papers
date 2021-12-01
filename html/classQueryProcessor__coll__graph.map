@@ -1,0 +1,7 @@
+<map id="QueryProcessor" name="QueryProcessor">
+<area shape="rect" id="node1" title="Handles queries inputted by user." alt="" coords="81,199,205,225"/>
+<area shape="rect" id="node2" href="$classIndexHandler.html" title="Index Handler that contains AVLTree of search terms." alt="" coords="88,109,197,136"/>
+<area shape="rect" id="node3" href="$classAVLTree.html" title="Tree used to index search terms." alt="" coords="5,13,77,39"/>
+<area shape="rect" id="node4" href="$structTreeNode.html" title="TreeNode contains individual search terms." alt="" coords="101,13,184,39"/>
+<area shape="rect" id="node5" href="$classHashTable.html" title=" " alt="" coords="267,5,416,47"/>
+</map>

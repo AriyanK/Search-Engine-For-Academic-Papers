@@ -1,0 +1,4 @@
+/usr/bin/cmake -DCMAKE_BUILD_TYPE=Release -G "CodeBlocks - Unix Makefiles" /mnt/c/Users/Aryan/Documents/GitHub/21s-srch-eng-ariyank
+-- Configuring done
+-- Generating done
+-- Build files have been written to: /mnt/c/Users/Aryan/Documents/GitHub/21s-srch-eng-ariyank/cmake-build-release
